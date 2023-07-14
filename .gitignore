@@ -1,0 +1,8 @@
+# Ignore specific file
+my_personal_info.txt
+
+# Ignore files in a directory
+logs/
+
+# Ignore files with a specific extension
+*.log
